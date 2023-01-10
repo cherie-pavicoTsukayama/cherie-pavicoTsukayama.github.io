@@ -23,10 +23,10 @@ Marketing Analytics Project on DoorDash spend where I share how I found these re
 - Those who are most likely to spend between $4.00 - $418.00 earn between $29.7k and $43.7k.
 
 #### Tools Used
-- iFood Dataset from Kaggle provided by Avery Smiths Data Analytics Accelorator
+- iFood Dataset from Kaggle provided by Avery Smith's Data Analytics Accelorator
 - Excel
 - Pivot Tables
-- Agreggate functions
+- Aggregate functions
 - Historgram Chart with bins
 - Scatter Plot with Trendline & R<sup>2</sup>
 
