@@ -15,7 +15,7 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 
 ----->
 ## [From Pennies to Plenty: A Data-Driven Study of DoorDash Spend](https://www.linkedin.com/pulse/from-pennies-plenty-data-driven-study-doordash-spend-cherie/)
-[<img src="images/Pink Blue Modern Volunteer LinkedIn Article Cover.png"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+[<img src="images/Pink Blue Modern Volunteer LinkedIn Article Cover.png"/>](https://www.linkedin.com/pulse/from-pennies-plenty-data-driven-study-doordash-spend-cherie[/)
 
 Marketing Analytics Project on DoorDash spend where I share how I found these results. <br>
 - There is a 67% relationship between people's incomes and their spending habits
@@ -33,7 +33,7 @@ Marketing Analytics Project on DoorDash spend where I share how I found these re
 ---
 
 ## [Visualizing The Achievement Gap: A Tableau Project Highlighting Graduation Analytics in Massachusetts Education](/tableauMaSchoolProject.md)
-<img src="images/tableauMaSchoolProject/CoverImage.png"/>
+[<img src="images/tableauMaSchoolProject/CoverImage.png"/>](/tableauMaSchoolProject.md)
 Education Analysis Project built in Tableau Public for persoanl and professional knowledge.
 
 #### Tools Used
