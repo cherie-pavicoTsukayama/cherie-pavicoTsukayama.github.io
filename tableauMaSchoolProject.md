@@ -39,6 +39,49 @@ Below are some of the things that I learned during this project. If you enjoyed 
 |**Shelves**|The “Columns”, Rows, Color, Size, Label, Detail, and Tooltip. <br>Drag items from the Data Pane to these Shelves <br>to create your stand-alone visualization.|![Shelves](images/tableauMaSchoolProject/Shelves.png)|
 |**Y-Axis**|This is the dependent variable.||
 |**X-Axis**|This is the independent variable.||
-|**Gradient Coloring**| Add an item to the “Color” Shelf on the Marks card, <br>select “Continuous”, then change the color on the<br> Legend on the top right.
+|**Legend**| To display Legend go to Analysis in the menu and look for “Legend”.||
 
+### <u>Gradient Coloring</u>
+Add an item to the “Color” Shelf on the Marks card, select “Continuous”, then change the color on the Legend on the top right.
+![Gradient Coloring](images/tableauMaSchoolProject/MarksGradientColor.gif)
 
+## <u>Scatter Plot</u>
+A scatter plot helps to visualize data quickly to see where there could be a relationship. In the scatter plot below I emphasized where the plots were most condensed and I was able to conclude that class sizes that have 12 - 19 students in them have better graduation percentages
+![Scatter Plot](images/scatterPlot.png)
+I also used color to use the data point of % Economically Disadvantaged. By adding a color gradient to the plots I was able to share this insight in the same scatter plot.
+
+I like this scatter plot because it is a dual-purpose chart and is simple and easy to make decisions on. This would be a great way to illustrate if the state should build more schools to reduce class size to improve graduation percentages.
+
+## <u>Scatter Plot Learnings</u>
+- Tableau will always aggregate the data.
+
+### <u>Unaggregated Data</u>
+- Right-click the item on the shelf > Dimension. This will break up the data on the scatter plot to not be connected by lines.
+
+![Unaggregated Data](images/tableauMaSchoolProject/MarksScatterPlot.gif)
+
+### <u>Change the visualization to plot points</u>
+- On the Marks Card use the drop-down and select “Circle”
+
+![Plot Points](images/tableauMaSchoolProject/MarksCircle.gif)
+
+## <u>Area Chart Learnings</u>
+An area chart with groupings can be visually informative giving weight to the chart versus just a line chart. In this instance, it gives a better visual for this data.
+![Area Chart](images/tableauMaSchoolProject/AreaChart.png)
+
+| **Marks Card Automatic Shelf Dropdown** | You’ll want to use the dropdown<br> on the Marks card and select “Area” | ![Marks Area](images/tableauMaSchoolProject/MarksArea.gif) |
+| :---         |     :---      |          :---: |
+
+### <u>Reference Line</u>
+This line is to show the data Threshold.<br>
+- Right-click on the X-axis > Add Reference Line > Value > Create New Parameter > Name: Name your Parameter > set Current Value {desired number} > Ok.
+
+ ![Refrenece Line](images/tableauMaSchoolProject/ReferenceLine.gif)
+
+ ### <u>Grouping Points</u>
+This is useful to emphasize data separations.<br>
+- Drag select on the graph the points you want to group > hover over selected points > click on the icon that looks like a paper clip.
+
+ ![Refrenece Line](images/tableauMaSchoolProject/ReferenceLine.gif)
+
+If you enjoyed this article, found it helpful, or have any comments please share them with me in the comments below! Thank you so much! 
