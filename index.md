@@ -29,7 +29,10 @@ Marketing Analytics Project on DoorDash spend where I share how I found these re
 - Aggregate functions
 - Historgram Chart with bins
 - Scatter Plot with Trendline & R<sup>2</sup>
-
+---
+## [Visualizing The Achievement Gap: A Tableau Project Highlighting Graduation Analytics in Massachusetts Education](/bank)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Tolulope is the best
 <!--
 ---
 #### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
