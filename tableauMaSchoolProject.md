@@ -32,14 +32,30 @@ Below are some of the things that I learned during this project. If you enjoyed 
 
 # Tableau How To’s & Big Take Aways; TL;DR<br>
 ## Tableau Key Terms
-|  |  |  |
-| :---         |     :---      |          :---: |
-|**Data Pane** | Located on the far left side of the Tableau window. <br>This is where each column is available for use. <br>Each item in the data pane can be dragged and<br> dropped into Cards and Shelves     | ![Data Pane](images/tableauMaSchoolProject/dataPane.png)|
-|**Cards**|The column of blocks next to the Data Pane. <br>Pages, Filters, Marks (marks contain shelves)|![Cards](images/tableauMaSchoolProject/Cards.png)|
-|**Shelves**|The “Columns”, Rows, Color, Size, Label, Detail, and Tooltip. <br>Drag items from the Data Pane to these Shelves <br>to create your stand-alone visualization.|![Shelves](images/tableauMaSchoolProject/Shelves.png)|
-|**Y-Axis**|This is the dependent variable.||
-|**X-Axis**|This is the independent variable.||
-|**Legend**| To display Legend go to Analysis in the menu and look for “Legend”.||
+
+### <u>Data Pane</u>
+- Located on the far left side of the Tableau window. This is where each column is available for use. Each item in the data pane can be dragged and dropped into Cards and Shelves
+
+![Data Pane](images/tableauMaSchoolProject/dataPane.png)
+
+### <u>Cards</u>
+- The column of blocks next to the Data Pane. Pages, Filters, Marks (marks contain shelves)
+
+![Cards](images/tableauMaSchoolProject/Cards.png)
+
+### <u>Shelves</u>
+- The “Columns”, Rows, Color, Size, Label, Detail, and Tooltip. Drag items from the Data Pane to these Shelves to create your stand-alone visualization
+
+![Shelves](images/tableauMaSchoolProject/Shelves.png)
+
+### <u>Y-Axis</u>
+- This is the dependent variable.
+
+### <u>X-Axis</u>
+- This is the independent variable.
+
+### <u>Legend</u>
+- To display Legend go to Analysis in the menu and look for “Legend”.
 
 ### <u>Gradient Coloring</u>
 Add an item to the “Color” Shelf on the Marks card, select “Continuous”, then change the color on the Legend on the top right.
@@ -69,8 +85,11 @@ I like this scatter plot because it is a dual-purpose chart and is simple and ea
 An area chart with groupings can be visually informative giving weight to the chart versus just a line chart. In this instance, it gives a better visual for this data.
 ![Area Chart](images/tableauMaSchoolProject/AreaChart.png)
 
-| **Marks Card Automatic Shelf Dropdown** | You’ll want to use the dropdown<br> on the Marks card and select “Area” | ![Marks Area](images/tableauMaSchoolProject/MarksArea.gif) |
-| :---         |     :---      |          :---: |
+### <u>Marks Card Automatic Shelf Dropdown</u>
+- You’ll want to use the dropdown on the Marks card and select “Area”
+
+![Marks Area](images/tableauMaSchoolProject/MarksArea.gif)
+
 
 ### <u>Reference Line</u>
 This line is to show the data Threshold.<br>
@@ -84,4 +103,4 @@ This is useful to emphasize data separations.<br>
 
  ![Refrenece Line](images/tableauMaSchoolProject/ReferenceLine.gif)
 
-If you enjoyed this article, found it helpful, or have any comments please share them with me in the comments below! Thank you so much! 
+If you enjoyed this article, found it helpful, or have any comments please share them with me in the comments below! Thank you so much!
