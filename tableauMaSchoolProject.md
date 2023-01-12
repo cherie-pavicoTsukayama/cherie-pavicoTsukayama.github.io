@@ -28,7 +28,7 @@ I analyzed the Massachusetts Education Dataset to find if building more schools 
 ## Overall Thoughts on Tableau Public
 It’s a powerful tool with a small learning curve, but nothing that can’t be googled and found in their documentation. I’m looking forward to how to connect a database to Tableau and am excited to work with more dashboards!
 
-Below are some of the things that I learned during this project. If you enjoyed my dashboard or found my tips below helpful please give this article a like, share it, bookmark it for future use, or leave a comment. Thanks so much!<br><br>
+Below are some of the things that I learned during this project. If you enjoyed my dashboard or found my tips below helpful lets connect on LinkedIn!<br><br>
 
 # Tableau How To’s & Big Take Aways; TL;DR<br>
 ## Tableau Key Terms
@@ -103,4 +103,4 @@ This is useful to emphasize data separations.<br>
 
  ![Refrenece Line](images/tableauMaSchoolProject/ReferenceLine.gif)
 
-If you enjoyed this article, found it helpful, or have any comments please share them with me in the comments below! Thank you so much!
+If you enjoyed this article, found it helpful, or have any comments lets connect on LinkedIn! Thank you so much!
