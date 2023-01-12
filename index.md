@@ -34,7 +34,7 @@ Marketing Analytics Project on DoorDash spend where I share how I found these re
 
 ## [Visualizing The Achievement Gap: A Tableau Project Highlighting Graduation Analytics in Massachusetts Education](/tableauMaSchoolProject.md)
 [<img src="images/tableauMaSchoolProject/CoverImage.png"/>](/tableauMaSchoolProject.md)
-Education Analysis Project built in Tableau Public for persoanl and professional knowledge.
+Education Analysis Project built in Tableau Public for personal and professional knowledge.
 
 #### Tools Used
 - Massachusetts Education Dataset provided by Avery Smith's Data Analytics Accelorator
@@ -42,6 +42,8 @@ Education Analysis Project built in Tableau Public for persoanl and professional
 - Scatter Plot
 - Area Chart
 - Tableau Dashboard
+- Threshold Line
+- Color Gradients
 
 <!--
 ---
