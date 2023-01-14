@@ -27,6 +27,7 @@ By using the historical dataset provided by The World Bank and using SQL I was a
 - SQL
 - [bit.io](https://bit.io/https://bit.io/)
 - [The World Bank Data Set](https://finances.worldbank.org/Loans-and-Credits/IDA-Statement-Of-Credits-and-Grants-Historical-Dat/tdwh-3krx)
+
 ---
 
 ## [From Pennies to Plenty: A Data-Driven Study of DoorDash Spend](https://www.linkedin.com/pulse/from-pennies-plenty-data-driven-study-doordash-spend-cherie/)
