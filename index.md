@@ -14,7 +14,6 @@ Tolulope is the best
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more.
 
 ----->
------>
 ## [Unlocking Insights from Historical IDA Credit and Grant Data with SQL and bit.io](https://www.linkedin.com/pulse/unlocking-insights-from-historical-ida-credit-grant-pavico-tsukayama/)
 [<img src="images/SQL Banking Project Cover Image.png"/>](https://www.linkedin.com/pulse/unlocking-insights-from-historical-ida-credit-grant-pavico-tsukayama/)
 By using the historical dataset provided by The World Bank and using SQL I was able gain the below insights.
