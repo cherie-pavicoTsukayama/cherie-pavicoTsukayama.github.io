@@ -14,6 +14,23 @@ Tolulope is the best
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more.
 
 ----->
+## [Patient Profiles: Understanding Who's Coming Through the Doors](https://www.linkedin.com/pulse/patient-profiles-understanding-whos-coming-through-pavico-tsukayama/)
+[<img src="images/cover.png"/>](https://www.linkedin.com/pulse/patient-profiles-understanding-whos-coming-through-pavico-tsukayama/)
+It was fun to delve deeper into the use of SQL clauses, keywords, and methods. I utilized two tables in the data set to obtain the results I was looking for. In this article, I'll share my experience and show you how I used SQL to get the information I needed.
+
+The specific terms that will be covered in this article are
+- Histogram
+- HAVING
+- JOIN
+- CASE WHEN
+- UNION
+
+#### Tools Used
+- SQL
+- SQL Workbench
+- [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Diabetes+130-US+hospitals+for+years+1999-2008#)
+
+---
 ## [Unlocking Insights from Historical IDA Credit and Grant Data with SQL and bit.io](https://www.linkedin.com/pulse/unlocking-insights-from-historical-ida-credit-grant-pavico-tsukayama/)
 [<img src="images/SQL Banking Project Cover Image.png"/>](https://www.linkedin.com/pulse/unlocking-insights-from-historical-ida-credit-grant-pavico-tsukayama/)
 By using the historical dataset provided by The World Bank and using SQL I was able gain the below insights.
