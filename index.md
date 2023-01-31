@@ -14,6 +14,24 @@ Tolulope is the best
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more.
 
 ----->
+## [Score Big with Analytics: Unlocking the Secrets of Basketball Performance](https://www.linkedin.com/pulse/score-big-analytics-unlocking-secrets-basketball-pavico-tsukayama-1c)
+[<img src="images/SportsAnalytics/Score Big with Analytics Unlocking the Secrets of Basketball Performance (1).png"/>](https://www.linkedin.com/pulse/score-big-analytics-unlocking-secrets-basketball-pavico-tsukayama-1c)
+I completed my Sports Data Analytics project, which was so fascinating to me. I don't know much about basketball but by doing this analysis I learned great insights into the positions and players.
+
+I decided to present my findings via video to practice my presenting skills more. It's something I'm comfortable with and have done on other projects for my current position.
+
+**These are the key points that I use this data set for.**
+1. How players did on total points, total assists, & total rebounds by position
+1. Create a reference sheet for where the best 3-point shooters are for each team.
+1. What were the total points scored by each team and how each player contributed to the total points?
+1. Show the assists made by each position.
+
+#### Tools Used
+- Tableau
+- Tableau Stories
+- [Data Set from basketball-reference.com](https://www.basketball-reference.com/leagues/NBA_2022_totals.html)
+
+---
 ## [Patient Profiles: Understanding Who's Coming Through the Doors](https://www.linkedin.com/pulse/patient-profiles-understanding-whos-coming-through-pavico-tsukayama/)
 [<img src="images/cover.png"/>](https://www.linkedin.com/pulse/patient-profiles-understanding-whos-coming-through-pavico-tsukayama/)
 It was fun to delve deeper into the use of SQL clauses, keywords, and methods. I utilized two tables in the data set to obtain the results I was looking for. In this article, I'll share my experience and show you how I used SQL to get the information I needed.
