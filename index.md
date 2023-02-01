@@ -15,7 +15,7 @@ For this project, I explored what a good analytics PowerPoint presentation shoul
 
 ----->
 ## [Score Big with Analytics: Unlocking the Secrets of Basketball Performance](https://www.linkedin.com/pulse/score-big-analytics-unlocking-secrets-basketball-pavico-tsukayama-1c)
-[<img src="images/SportsAnalytics/Score Big with Analytics Unlocking the Secrets of Basketball Performance (1).png"/>](https://www.linkedin.com/pulse/score-big-analytics-unlocking-secrets-basketball-pavico-tsukayama-1c)
+[<img src="images/SportsAnalytics/coverImage.png"/>](https://www.linkedin.com/pulse/score-big-analytics-unlocking-secrets-basketball-pavico-tsukayama-1c)
 I completed my Sports Data Analytics project, which was so fascinating to me. I don't know much about basketball but by doing this analysis I learned great insights into the positions and players.
 
 I decided to present my findings via video to practice my presenting skills more. It's something I'm comfortable with and have done on other projects for my current position.
