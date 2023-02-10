@@ -14,6 +14,20 @@ Tolulope is the best
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more.
 
 ----->
+## [Data Mining with Python: Uncovering Insights on Iron and Silica Concentration](https://www.linkedin.com/pulse/data-mining-python-uncovering-insights-iron-silica-pavico-tsukayama)
+[<img src="images/Python Minning Project/cover.png"/>](https://www.linkedin.com/pulse/data-mining-python-uncovering-insights-iron-silica-pavico-tsukayama)
+I'm excited to share my latest article on data analytics! In this article, I delve into the world of iron ore mining and showcase how I used Python, Seaborn, Pandas, and Matplotlib to analyze data on Iron and Silica concentrate in a flotation plant. The goal of the project was to take a look at monthly production of Iron concentrate and Silica concentrate. If you're interested in learning more about how I used python to analyze this data, give my article a read!
+
+
+#### Tools Used
+- Deepnote
+- Python
+- Seaborn
+- Pandas
+- Matplotlib
+- [Data Set from Quality Prediction in a Mining Process](https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process?resource=download)
+
+---
 ## [Score Big with Analytics: Unlocking the Secrets of Basketball Performance](https://www.linkedin.com/pulse/score-big-analytics-unlocking-secrets-basketball-pavico-tsukayama-1c)
 [<img src="images/SportsAnalytics/coverImage.png"/>](https://www.linkedin.com/pulse/score-big-analytics-unlocking-secrets-basketball-pavico-tsukayama-1c)
 I completed my Sports Data Analytics project, which was so fascinating to me. I don't know much about basketball but by doing this analysis I learned great insights into the positions and players.
