@@ -14,6 +14,18 @@ Tolulope is the best
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more.
 
 ----->
+## [The Power of Visualization: Exploring the Most Popular Champions on League of Legends](https://www.linkedin.com/pulse/data-mining-python-uncovering-insights-iron-silica-pavico-tsukayama)
+[<img src="images/The Power of Visualization Exploring the Most Popular Champions in League of Legends (3).png"/>](https://www.linkedin.com/pulse/power-visualization-exploring-most-popular-champions-cherie/)
+I recently used Tableau and SQL to analyze data from competitive games in League of Legends, and the results were fascinating. By visualizing the most popular champions by position, I gained a clearer understanding of player preferences and strategies. In addition, using SQL allowed me to create a data frame and visualize the player with the most kills during a specific time frame. I found that Bang had the highest number of kills from 2015-2018, and his most used champions varied based on the team he was playing against. These insights can be incredibly valuable for players and teams looking to improve their gameplay and increase their chances of winning. Check out my article to learn more about the power of data analysis in competitive gaming! #Tableau #SQL #DataAnalysis #LeagueOfLegends #GamingInsights
+
+
+#### Tools Used
+- Deepnote
+- SQL
+- Tableau
+- [Data Set from Kaggle: League of Legends](https://www.kaggle.com/datasets/chuckephron/leagueoflegends)
+
+---
 ## [Data Mining with Python: Uncovering Insights on Iron and Silica Concentration](https://www.linkedin.com/pulse/data-mining-python-uncovering-insights-iron-silica-pavico-tsukayama)
 [<img src="images/Python Minning Project/cover.png"/>](https://www.linkedin.com/pulse/data-mining-python-uncovering-insights-iron-silica-pavico-tsukayama)
 I'm excited to share my latest article on data analytics! In this article, I delve into the world of iron ore mining and showcase how I used Python, Seaborn, Pandas, and Matplotlib to analyze data on Iron and Silica concentrate in a flotation plant. The goal of the project was to take a look at monthly production of Iron concentrate and Silica concentrate. If you're interested in learning more about how I used python to analyze this data, give my article a read!
