@@ -14,7 +14,7 @@ Tolulope is the best
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more.
 
 ----->
-## [The Power of Visualization: Exploring the Most Popular Champions on League of Legends](https://www.linkedin.com/pulse/data-mining-python-uncovering-insights-iron-silica-pavico-tsukayama)
+## [The Power of Visualization: Exploring the Most Popular Champions on League of Legends](https://www.linkedin.com/pulse/power-visualization-exploring-most-popular-champions-cherie/)
 [<img src="images/The Power of Visualization Exploring the Most Popular Champions in League of Legends (3).png"/>](https://www.linkedin.com/pulse/power-visualization-exploring-most-popular-champions-cherie/)
 I recently used Tableau and SQL to analyze data from competitive games in League of Legends, and the results were fascinating. By visualizing the most popular champions by position, I gained a clearer understanding of player preferences and strategies. In addition, using SQL allowed me to create a data frame and visualize the player with the most kills during a specific time frame. I found that Bang had the highest number of kills from 2015-2018, and his most used champions varied based on the team he was playing against. These insights can be incredibly valuable for players and teams looking to improve their gameplay and increase their chances of winning. Check out my article to learn more about the power of data analysis in competitive gaming! #Tableau #SQL #DataAnalysis #LeagueOfLegends #GamingInsights
 
